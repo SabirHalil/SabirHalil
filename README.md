@@ -3,10 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabir+Halil!+😎;" />
 </div>
 <h3 align="center">A committed and adaptable developer with a passion for left remarkable digital experiences.</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirhalil&label=Profile%20views&color=0e75b6&style=flat" alt="sabirhalil" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sabirhalil.tech/](https://sabirhalil.tech/)
 
@@ -37,7 +35,7 @@
 <br>
 
 ## 📊 My Stats:
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirhalil&label=Profile%20views&color=0e75b6&style=flat" alt="sabirhalil" /> </p>
 <p align="left">
     <a href="https://github.com/SabirHalil/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SabirHalil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sabirhalil&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
